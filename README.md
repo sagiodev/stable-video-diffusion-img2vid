@@ -4,9 +4,11 @@ This notebook launches a GUI for using Stability AI's [Stable Video Diffusion](h
 
 ## How to use
 1. Open the Colab Notebook [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sagiodev/stable-diffusion-img2vid/blob/main/stable_video_diffusion_img2vid.ipynb)
-2. Upload an initial image for the video
-3. Adjust `crop offset` to get the desired crop
-4. Press `Run` to generate a video
+2. Review options. Run the notebook.
+3. Wait for the gradio.live link to appear. Click the link to start the GUI.
+4. In the GUI, upload an initial image for the video
+5. Adjust `crop offset` to get the desired crop
+6. Press `Run` to generate a video
 
 ![image](https://github.com/sagiodev/stable-video-diffusion-img2vid/assets/3319909/74d02aca-1bad-4d2d-93ca-cf521a38ee99)
 
