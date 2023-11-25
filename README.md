@@ -1,4 +1,4 @@
-# Stable Video Diffuion img2vid
+# Stable Video Diffusion img2vid
 ## What it does
 This notebook launches a GUI for using Stability AI's [Stable Video Diffusion](https://github.com/Stability-AI/generative-models)
 
