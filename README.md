@@ -12,6 +12,8 @@ The SVD model takes an image as the input. It uses the image as the first frame 
 5. Adjust `crop offset` to get the desired crop
 6. Press `Run` to generate a video
 
+A full tutorial can be found [here](https://stable-diffusion-art.com/stable-video-diffusion-img2vid/).
+
 ![image](https://github.com/sagiodev/stable-video-diffusion-img2vid/assets/3319909/74d02aca-1bad-4d2d-93ca-cf521a38ee99)
 
 ## Colab runtime
