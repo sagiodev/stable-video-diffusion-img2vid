@@ -2,15 +2,15 @@
 ## What it does
 A Google Colab notebook that launches a GUI to use Stability AI's [Stable Video Diffusion](https://github.com/Stability-AI/generative-models) (SVD) model.
 
-The SVD model takes an image as the input. It uses the image as the first frame and generates a short video clip with a motion prior learned from a large video dataset.
+The SVD model is an image-to-video model. Iakes an image as the input. It uses the image as the first frame of the video and generates a short video clip using a motion prior learned from a large video dataset.
 
 ## How to use
-1. Open the Colab Notebook [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sagiodev/stable-diffusion-img2vid/blob/main/stable_video_diffusion_img2vid.ipynb)
+1. Open the Colab Notebook. [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sagiodev/stable-diffusion-img2vid/blob/main/stable_video_diffusion_img2vid.ipynb)
 2. Review options. Run the notebook.
 3. Wait for the gradio.live link to appear. Click the link to start the GUI.
-4. In the GUI, upload an initial image for the video
-5. Adjust `crop offset` to get the desired crop
-6. Press `Run` to generate a video
+4. In the GUI, upload an initial image for the video.
+5. Adjust `crop offset` to get the desired crop.
+6. Press `Run` to generate a video.
 
 A full tutorial can be found [here](https://stable-diffusion-art.com/stable-video-diffusion-img2vid/).
 
