@@ -1,6 +1,8 @@
 # Stable Video Diffusion img2vid
 ## What it does
-This notebook launches a GUI for using Stability AI's [Stable Video Diffusion](https://github.com/Stability-AI/generative-models)
+A Google Colab notebook that launches a GUI to use Stability AI's [Stable Video Diffusion](https://github.com/Stability-AI/generative-models) (SVD) model.
+
+The SVD model takes an image as the input. It uses the image as the first frame and generates a short video clip with a motion prior learned from a large video dataset.
 
 ## How to use
 1. Open the Colab Notebook [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sagiodev/stable-diffusion-img2vid/blob/main/stable_video_diffusion_img2vid.ipynb)
