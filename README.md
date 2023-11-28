@@ -40,3 +40,7 @@ https://github.com/sagiodev/stable-video-diffusion-img2vid/assets/3319909/7f54c2
 
 https://github.com/sagiodev/stable-video-diffusion-img2vid/assets/3319909/511cbcae-57e6-40a6-8b57-1d7ecbaacc4e
 
+https://github.com/sagiodev/stable-video-diffusion-img2vid/assets/3319909/6e974023-d053-4a6c-a153-e191cdecd997
+
+
+
