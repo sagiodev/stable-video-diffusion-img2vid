@@ -21,7 +21,10 @@ It takes 9 mins on a T4 and 2 mins on a V100.
 
 High RAM is not strictly necessary but helps to avoid crashes.
 
-Should work on free Colab.
+Works on free Colab.
+
+## Known issues
+The notebook may crash after a few generations when NOT using the high RAM setting. (Such as in the Free Colab runtime.)
 
 ## Credits
 Thanks to these notebooks!
