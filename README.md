@@ -23,6 +23,10 @@ High RAM is not strictly necessary but helps to avoid crashes.
 
 Works on free Colab.
 
+## Advanced options
+- Increase `motion bucket id` to increase the motion in the video.
+- Fix the random as a positive integer to generate the same video.
+
 ## Known issues
 The notebook may crash after a few generations when NOT using the high RAM setting. (Such as in the Free Colab runtime.)
 
