@@ -25,6 +25,7 @@ Works on free Colab.
 
 ## Advanced options
 - Increase `motion bucket id` to increase the motion in the video.
+- Increase `fps id` to increase the frame rate of the video.
 - Fix the random as a positive integer to generate the same video.
 
 ## Known issues
